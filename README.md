@@ -22,8 +22,7 @@ The project is organized into multiple directories to maintain clarity and repro
 📂 visuals/         → Graphs, charts, and visualizations
 📂 dashboard/       → Power BI reports and Dash-based visualization tools  
 📂 docs/            → Project reports, documentation, and presentations  
-
-datasets/ – This folder contains both raw datasets and cleaned/preprocessed versions. It includes:
+📂 datasets/        → This folder contains both raw datasets and cleaned/preprocessed versions. It includes:
 
 Student_Performance.csv
 StudentPerformanceFactors.csv
