@@ -19,6 +19,7 @@ The project is organized into multiple directories to maintain clarity and repro
 
 📂 datasets/        → Raw and cleaned datasets used in analysis  
 📂 scripts/         → Python scripts for data processing, machine learning models, and dashboard creation  
+📂 visuals/         → Graphs, charts, and visualizations
 📂 dashboard/       → Power BI reports and Dash-based visualization tools  
 📂 docs/            → Project reports, documentation, and presentations  
 
